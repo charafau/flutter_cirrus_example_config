@@ -1,6 +1,6 @@
 # flutter_cirrus_example_config
 
-A new flutter plugin project.
+A new flutter plugin project. 
 
 ## Getting Started
 
