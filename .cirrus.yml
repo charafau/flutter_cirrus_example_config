@@ -1,0 +1,7 @@
+test_task:
+  container:
+    dockerfile: .ci/Dockerfile
+  upgrade_script:
+    - flutter channel stable
+    - flutter upgrade
+  test_script: flutter test
